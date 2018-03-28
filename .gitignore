@@ -1,0 +1,4 @@
+mccnn/*.bin
+output/
+__pycache__/
+mccnn.code-workspace
