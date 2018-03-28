@@ -5,7 +5,7 @@ Jure Zbontar and Yann LeCun:
 "Stereo Matching by Training a Convolutional Neural Network to Compare Image Patches",
 Journal of Machine Learning Research, vol. 17, pages 1-32, 2016.
 ```
-Our pre-trained models are produced by importing network weights from their original pre-trained models in https://github.com/jzbontar/mc-cnn.
+Our pre-trained models are produced by importing network weights from their original pre-trained models in https://github.com/jzbontar/mc-cnn. Our imlementation uses much less GPU memories for computing matching costs.
 
 ## Remarks
 + We only provide code for inference. Training code is not included.
