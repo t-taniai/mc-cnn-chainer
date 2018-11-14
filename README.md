@@ -41,6 +41,7 @@ python demo.py -g 1 -v 1
 ## Reference
 This code is intended to facilitate generation of cost volume data for input of our stereo method below. 
 If you also find this work useful for your research, please cite our TPAMI paper.
+```
 @article{Taniai18,
   author    = {Tatsunori Taniai and
                Yasuyuki Matsushita and
