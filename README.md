@@ -41,9 +41,18 @@ python demo.py -g 1 -v 1
 ## Reference
 This code is intended to facilitate generation of cost volume data for input of our stereo method below. 
 If you also find this work useful for your research, please cite our TPAMI paper.
-```
-Tatsunori Taniai, Yasuyuki Matsushita, Yoichi Sato, and Takeshi Naemura:
-"Continuous 3D Label Stereo Matching using Local Expansion Moves",
-Transactions on Pattern Analysis and Machine Intelligence (TPAMI), to appear in 2018.
+@article{Taniai18,
+  author    = {Tatsunori Taniai and
+               Yasuyuki Matsushita and
+               Yoichi Sato and
+               Takeshi Naemura},
+  title     = {{Continuous 3D Label Stereo Matching using Local Expansion Moves}},
+  journal   = {{IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)}},
+  year      = {2018},
+  volume    = {40},
+  number    = {11},
+  pages     = {2725--2739},
+  doi       = {10.1109/TPAMI.2017.2766072},
+}
 ```
 See also: [[Project]](http://taniai.space/projects/stereo/)  [[GitHub]](https://github.com/t-taniai/LocalExpStereo)  [[Preprint]](https://arxiv.org/abs/1603.08328)
